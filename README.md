@@ -1,6 +1,6 @@
-# hello-world
-Just repository
+# a program to print list whit for loop
 
-Hi gues , i'm ready to change roles in the world!!!
+my_list = ['Amin','Ali','Negar','Mahshid']
 
-Start...
+for x in my_list[] :
+print ('Salam')
